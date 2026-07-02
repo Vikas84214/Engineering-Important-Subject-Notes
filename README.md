@@ -1,0 +1,1 @@
+A comprehensive collection of Computer Science engineering notes covering OOP, DBMS, Operating Systems, Computer Networks, DSA, Java, SQL, and interview preparation. Well-organized and beginner-friendly, these notes include core concepts, examples, diagrams, and key interview questions for quick revision and placement success.
